@@ -1,11 +1,11 @@
 # EM27 Location Data
 
-This repository is the single source of truth for our EM27 measurement logistics: "Where has each station been on each day of measurements?" We selected this format over placing it in a database due to various reasons:
+This repository serves as a the single source of truth for EM27 measurement logistics: "Where has each station been on each day of measurements?" We selected this format over placing it in a database due to various reasons:
 
 -   Easy to read, modify and extend by selective group members using GitHub permissions
 -   Changes to this are more obvious here than in database logs
--   Versioning (easy to revert mistakes)
--   Simple offline usability (for stations without an internet connection)
+-   Versioning makes it easy to revert mistakes
+-   Simple offline usability for stations without an internet connection
 -   Automatic testing of the files integrities
 
 <br/>
