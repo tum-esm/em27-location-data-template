@@ -1,0 +1,38 @@
+{
+    "LOC_E": {
+        "details": "east of city",
+        "lon": 11.73,
+        "lat": 48.148,
+        "alt": 536
+    },
+    "LOC_W": {
+        "details": "west of city",
+        "lon": 11.425,
+        "lat": 48.121,
+        "alt": 556
+    },
+    "LOC_N": {
+        "details": "north of city",
+        "lon": 11.548,
+        "lat": 48.258,
+        "alt": 483
+    },
+    "LOC_S": {
+        "details": "south of city",
+        "lon": 11.608,
+        "lat": 48.047,
+        "alt": 579
+    },
+    "LOC_C": {
+        "details": "city center",
+        "lon": 11.569,
+        "lat": 48.151,
+        "alt": 539
+    },
+    "LAB": {
+        "details": "Inside the laboratory",
+        "lon": 11.569,
+        "lat": 48.151,
+        "alt": 521
+    }
+}

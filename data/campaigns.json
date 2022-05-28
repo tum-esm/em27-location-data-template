@@ -1,0 +1,13 @@
+{
+    "campaign-name": {
+        "from": 20200101,
+        "to": 21000101,
+        "stations": [
+            { "sensor": "s01", "defaultLocation": "LOC_C", "direction": "center" },
+            { "sensor": "s02", "defaultLocation": "LOC_E", "direction": "east" },
+            { "sensor": "s03", "defaultLocation": "LOC_W", "direction": "west" },
+            { "sensor": "s04", "defaultLocation": "LOC_N", "direction": "north" },
+            { "sensor": "s05", "defaultLocation": "LOC_S", "direction": "south" }
+        ]
+    }
+}

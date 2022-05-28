@@ -1,0 +1,117 @@
+{
+    "s01": {
+        "serialNumber": 1,
+        "locations": [
+            {
+                "from": 20191201,
+                "to": 20200105,
+                "location": "LAB"
+            },
+            {
+                "from": 20200106,
+                "to": 20201231,
+                "location": "LOC_C"
+            }
+        ]
+    },
+    "s02": {
+        "serialNumber": 2,
+        "locations": [
+            {
+                "from": 20191201,
+                "to": 20200105,
+                "location": "LAB"
+            },
+            {
+                "from": 20200106,
+                "to": 20200430,
+                "location": "LOC_E"
+            },
+            {
+                "from": 20200501,
+                "to": 20200505,
+                "location": "LOC_C"
+            },
+            {
+                "from": 20200506,
+                "to": 20201231,
+                "location": "LOC_E"
+            }
+        ]
+    },
+    "s03": {
+        "serialNumber": 3,
+        "locations": [
+            {
+                "from": 20191201,
+                "to": 20200105,
+                "location": "LAB"
+            },
+            {
+                "from": 20200106,
+                "to": 20200430,
+                "location": "LOC_W"
+            },
+            {
+                "from": 20200501,
+                "to": 20200505,
+                "location": "LOC_C"
+            },
+            {
+                "from": 20200506,
+                "to": 20201231,
+                "location": "LOC_W"
+            }
+        ]
+    },
+    "s04": {
+        "serialNumber": 4,
+        "locations": [
+            {
+                "from": 20191201,
+                "to": 20200105,
+                "location": "LAB"
+            },
+            {
+                "from": 20200106,
+                "to": 20200430,
+                "location": "LOC_N"
+            },
+            {
+                "from": 20200501,
+                "to": 20200505,
+                "location": "LOC_C"
+            },
+            {
+                "from": 20200506,
+                "to": 20201231,
+                "location": "LOC_N"
+            }
+        ]
+    },
+    "s05": {
+        "serialNumber": 5,
+        "locations": [
+            {
+                "from": 20191201,
+                "to": 20200105,
+                "location": "LAB"
+            },
+            {
+                "from": 20200106,
+                "to": 20200430,
+                "location": "LOC_S"
+            },
+            {
+                "from": 20200501,
+                "to": 20200505,
+                "location": "LOC_C"
+            },
+            {
+                "from": 20200506,
+                "to": 20201231,
+                "location": "LOC_S"
+            }
+        ]
+    }
+}
