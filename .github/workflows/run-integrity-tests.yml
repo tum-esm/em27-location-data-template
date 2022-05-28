@@ -1,0 +1,26 @@
+name: integrity-tests
+on:
+    push:
+defaults:
+    run:
+        working-directory: integrity-tests
+jobs:
+    run:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out repository
+              uses: actions/checkout@v2
+
+            - name: Set up Python
+              uses: actions/setup-python@v2
+              with:
+                  python-version: 3.10.4
+
+            - name: Install Poetry
+              uses: snok/install-poetry@v1
+
+            - name: Install dependencies
+              run: poetry install
+
+            - name: Test with pytest
+              run: poetry run pytest tests
